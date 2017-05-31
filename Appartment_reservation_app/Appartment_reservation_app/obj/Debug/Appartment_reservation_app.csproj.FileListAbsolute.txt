@@ -1,0 +1,6 @@
+c:\users\yathapu\documents\visual studio 2017\Projects\Appartment_reservation_app\Appartment_reservation_app\bin\Debug\Appartment_reservation_app.exe.config
+c:\users\yathapu\documents\visual studio 2017\Projects\Appartment_reservation_app\Appartment_reservation_app\bin\Debug\Appartment_reservation_app.exe
+c:\users\yathapu\documents\visual studio 2017\Projects\Appartment_reservation_app\Appartment_reservation_app\bin\Debug\Appartment_reservation_app.pdb
+c:\users\yathapu\documents\visual studio 2017\Projects\Appartment_reservation_app\Appartment_reservation_app\obj\Debug\Appartment_reservation_app.csprojResolveAssemblyReference.cache
+c:\users\yathapu\documents\visual studio 2017\Projects\Appartment_reservation_app\Appartment_reservation_app\obj\Debug\Appartment_reservation_app.exe
+c:\users\yathapu\documents\visual studio 2017\Projects\Appartment_reservation_app\Appartment_reservation_app\obj\Debug\Appartment_reservation_app.pdb
